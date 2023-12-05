@@ -1,4 +1,5 @@
 # Friends
+![Friends](https://m.media-amazon.com/images/S/pv-target-images/e56c18e08e0a07c8d4ee65f45be64cefe6b070992a84182dd5ba35eb7cfc6510.jpg)
 
 ### Genre: 
 Sitcom
@@ -27,9 +28,8 @@ Friends is a classic sitcom that revolves around the lives, relationships, and h
 10. Season 10 (2003–2004): 18 episodes
 
 [Friends Official Site]
-(https://www.friendstv.com/)
 
-![Central Perk](central_perk_image.jpg)
+(https://www.friendstv.com/)
 
 | Character    | Job                          | Catchphrase                                         |
 |--------------|------------------------------|-----------------------------------------------------|
@@ -42,3 +42,6 @@ Friends is a classic sitcom that revolves around the lives, relationships, and h
 
 ## Why I Love It:
  Its enduring friendships, smart comedy, and sympathetic characters, "Friends" has a timeless appeal. Watching this sitcom is highly recommended due to the enduring catchphrases and the chemistry between the cast members.
+ 
+ ![Funny GIF](https://media4.giphy.com/media/TduAOfjJ0SlQMzH8oQ/giphy.gif)
+
